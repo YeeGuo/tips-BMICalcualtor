@@ -13,6 +13,8 @@
 		2B3AC9B929DEC1BA00B14F43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B3AC9B729DEC1BA00B14F43 /* Main.storyboard */; };
 		2B3AC9BB29DEC1BB00B14F43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B3AC9BA29DEC1BB00B14F43 /* Assets.xcassets */; };
 		2B3AC9BE29DEC1BB00B14F43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B3AC9BC29DEC1BB00B14F43 /* LaunchScreen.storyboard */; };
+		2B3AC9C629DED66A00B14F43 /* TipsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3AC9C529DED66A00B14F43 /* TipsViewController.swift */; };
+		2B3AC9C829DED67A00B14F43 /* BMIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3AC9C729DED67A00B14F43 /* BMIViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		2B3AC9BA29DEC1BB00B14F43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2B3AC9BD29DEC1BB00B14F43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B3AC9BF29DEC1BB00B14F43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B3AC9C529DED66A00B14F43 /* TipsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsViewController.swift; sourceTree = "<group>"; };
+		2B3AC9C729DED67A00B14F43 /* BMIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMIViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				2B3AC9B329DEC1BA00B14F43 /* SceneDelegate.swift */,
 				2B3AC9B529DEC1BA00B14F43 /* ViewController.swift */,
 				2B3AC9B729DEC1BA00B14F43 /* Main.storyboard */,
+				2B3AC9C529DED66A00B14F43 /* TipsViewController.swift */,
+				2B3AC9C729DED67A00B14F43 /* BMIViewController.swift */,
 				2B3AC9BA29DEC1BB00B14F43 /* Assets.xcassets */,
 				2B3AC9BC29DEC1BB00B14F43 /* LaunchScreen.storyboard */,
 				2B3AC9BF29DEC1BB00B14F43 /* Info.plist */,
@@ -140,6 +146,8 @@
 			files = (
 				2B3AC9B629DEC1BA00B14F43 /* ViewController.swift in Sources */,
 				2B3AC9B229DEC1BA00B14F43 /* AppDelegate.swift in Sources */,
+				2B3AC9C629DED66A00B14F43 /* TipsViewController.swift in Sources */,
+				2B3AC9C829DED67A00B14F43 /* BMIViewController.swift in Sources */,
 				2B3AC9B429DEC1BA00B14F43 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
